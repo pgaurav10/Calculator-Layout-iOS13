@@ -1,8 +1,8 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Calculator 
 
-# Calculator Layout Boss Challenge
+![Calculator](Documentation/Calculator.gif)
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+Calculator is a straightforward and user-friendly calculator application developed with Swift, offering essential arithmetic operations in a clean and organized layout.
 
 ## Portrait
 
@@ -11,17 +11,18 @@ No knowledge is your own until you put it into practice. Using what you've learn
 ## Landscape
 ![Landscape](Documentation/Landscape.png)
 
-This is a difficult challenge. You pass the challenge if you can create the vertical and horizontal stacks required for the layout. Once you've done that, you can also get extra credit if you figure out how to layout the small details.
+## Clean and Organized Layout with Stack Views
 
-Bronze Medal: If you can figure out how to have the layout be constrained to the Safe Areas in Portrait and Landscape. (Notice the distance to the edges is different between landscape and portrait.
+Calculator adopts a well-organized layout using stack views, creating a clean and visually appealing design. This ensures consistency across different device sizes and orientations, enhancing the user experience.
 
-Silver Medal: If you can figure out how to indent the Label with the 0 so that there is 20px distance from the right edge of the screen.
+## Basic Arithmetic Operations
 
-Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
+The calculator supports fundamental arithmetic operations, including addition, subtraction, multiplication, and division. Users can perform standard calculations with ease, making Calculator a reliable tool for everyday use.
 
-If you get stuck, check out the solution video in the next lesson.
+## Dynamic Display with Computed Properties
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+Calculator uses computed properties to dynamically update the display area in real-time as users input numbers and perform calculations. This ensures instant feedback and accuracy in displaying results as users interact with the calculator.
 
-![End Banner](Documentation/readme-end-banner.png)
+## Responsive and User-Friendly Design
 
+The app is designed to be responsive, providing a smooth and user-friendly experience. Calculator prioritizes simplicity and efficiency, making it accessible for users who need a straightforward calculator without unnecessary complexity.
